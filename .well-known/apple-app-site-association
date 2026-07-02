@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["N32WVFQ7H8.jp.co.mixi.MayChannel"],
+        "components": [
+          { "/": "/photo_print/campaign*" }
+        ]
+      }
+    ]
+  }
+}
