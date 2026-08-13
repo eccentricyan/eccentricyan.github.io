@@ -6,6 +6,12 @@
         "components": [
           { "/": "/apps/*" }
         ]
+      },
+      {
+        "appIDs": ["7G4D95R77P.com.eccentricyan.AutoRefresh"],
+        "components": [
+          { "/": "/show_dialog" }
+        ]
       }
     ]
   }
